@@ -9,5 +9,6 @@ It accomplishes the following:
 - Allows users to suggest or submit events
 - Allows admins to "approve" submissions
 - Sends notifications of approved submissions
+  - Send iCal with notification
 - Records RSVPs to events
 - Allows users to subscribe to the feed and be notified of submissions, approvals and/or upcoming events
