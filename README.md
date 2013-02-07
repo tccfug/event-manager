@@ -12,3 +12,10 @@ It accomplishes the following:
   - Send iCal with notification
 - Records RSVPs to events
 - Allows users to subscribe to the feed and be notified of submissions, approvals and/or upcoming events
+- Provide an RSS feed of events
+
+event.tccfug.com
+/list
+/new
+/edit
+
